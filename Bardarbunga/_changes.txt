@@ -1,0 +1,10 @@
+﻿Changes to be made for Version 5.0:
+	- Show Drumplots and such using new windows with Awesomium tabs		[X]
+	- Show 'Historical' data using ild DB								[X]
+	- Redesign interface												[X]
+	- Second Column Sorting												[X] - Disabled
+	- Integrate Live stream(s) into it									[]
+	- Graphs into old data												[]
+
+	- Look into an updater/Digital signing/etc							[]
+	- Eq Per Hour Split up												[]

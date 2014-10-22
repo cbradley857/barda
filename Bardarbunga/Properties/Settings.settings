@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Bardarbunga.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="hours" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="minSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="minAlert" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="sortOrder" Type="System.ComponentModel.ListSortDirection" Scope="User">
+      <Value Profile="(Default)">Ascending</Value>
+    </Setting>
+    <Setting Name="sortColumn" Type="System.Windows.Forms.DataGridViewColumn" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="lastTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">09/11/2014 00:26:00</Value>
+    </Setting>
+    <Setting Name="currentVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">4.2</Value>
+    </Setting>
+    <Setting Name="keepOnTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
