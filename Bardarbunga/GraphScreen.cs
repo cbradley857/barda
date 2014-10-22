@@ -39,6 +39,7 @@ namespace Bardarbunga
             radioButton1.Checked = true;
         }
 
+        //Function is severely in need of refactoring
         public void loadGraph(GraphType graphType)
         {
             currentGraph = graphType;
